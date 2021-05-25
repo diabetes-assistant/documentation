@@ -1,5 +1,5 @@
 # Product is
-* insulin dosierungs app (spezieller use case)
+* insulin dosierungs app (spezieller use case) - therapie empfehlung
 * blutzucker tagebuch
 
 # Product is not
