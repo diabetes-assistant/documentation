@@ -12,4 +12,6 @@ The diagrams were created using https://excalidraw.com.
 ## Open questions
 * data privacy/security, GDPR?
 * How to login in app?
+* How do you do data entry?
+* Are both doctor and patient using the app? Does a doctor even have a phone with app in practice?
 
