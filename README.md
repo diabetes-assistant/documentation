@@ -1,16 +1,13 @@
 # Diabetes Assistant Documentation
-## Elevator Pitch
-For _Patients their treating Doctors_
+A diabetes dosage app and blood sugar app for doctors and patients.
+If you want to know more about the product, feel free to read [inception results](docs/inception.md).
 
-who _have Diabetes and need to treat it_
+* [Inception results](docs/inception.md)
+* [Kanban board](https://github.com/diabetes-assistant/documentation/projects/1)
+* [App Development](https://github.com/diabetes-assistant/diabetes-assistant-app)
+* [Backend Development](https://github.com/diabetes-assistant/diabetes-assistant-backend)
 
-our product is _a diabetes dosage treatment and a blood sugar diary app_
-
-that _is completely digital and easily connects doctors and their patients_
-
-unlike _existing solutions_
-
-our product _directly connects patients to their doctors and can show their treatment plan_.
+The diagrams were created using https://excalidraw.com.
 
 ## Open questions
 * data privacy/security, GDPR?
