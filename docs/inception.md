@@ -11,7 +11,7 @@ team members head with a common understanding. You can learn more about it [here
 * diabetes life companion app, supporting people with diabetes in their overall life with diabetes
 
 ### Product does
-* Insulin dosis berechnen nach kohlenhydrat einheiten und korrektur faktor (pro person, vom arzt eingegeben)
+* Calculate insulin dosage based on carbohydrates unit and correction unit (per person, from doctor specified)
 * blutzucker tagebuch, historischer verlauf und analyse der eingegebenen daten und des blutzuckerspiegels
 * blutzucker werte managen (patient abgetrennter bereich mit login)
 * korrektur faktoren managen pro person (arzt abgetrennter bereich mit login)
