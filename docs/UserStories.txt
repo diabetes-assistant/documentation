@@ -1,0 +1,48 @@
+User-Stories f.d. Diabetes-Assistenten:
+
+-Als Patient*in möchte ich mir jederzeit sicher sein, dass die Berechnung der
+Insulindosis korrekt funktioniert und auf Basis aktueller, von der
+behandelnden Ärzt*in eingegebenen Parametern stattfindet, damit ich durch die
+Nutzung der App keinen Schaden erleide
+
+-Ganz allgemein: Als Patient*in möchte ich möglichst unkompliziert und schnell die erforderliche Insulindosis anhand des präprandialen Blutzuckerspiegels, der aufgenommenen
+Kohlenhydrateinheiten, des Kohlenhydrateinheiten-Faktors sowie ggf. des
+Korrekturfaktors ermitteln, damit ich mit der App Zeit gewinne, gegenüber der
+manuellen Berechnung
+
+-Als Patient*in möchte ich unmittelbar nach dem Öffnen der App auswählen
+können, ob ich eine Insulinberechnung vornehmen, oder das Blutzuckertagebuch
+aufrufen möchte, damit ich auf einen Blick alle Optionen der App im Blick habe
+(s. Layout von Nikos, erster Menüpunkt nach dem Login sollte Insulinberechnung
+sein)
+
+-Als Patient*in möchte ich mich möglichst nicht vor jeder neuen
+Insulinberechnung/ vor jedem Öffnen der App erneut einloggen müssen, damit ich
+nicht Gefahr laufe, mein Login zu vergessen und u.U. die App nicht mehr öffnen
+kann
+
+-Evtl. (Add-on) Als Patient*in möchte ich das Blutzuckertagebuch exportieren können, um die Werte auch an meinem Computer ansehen zu können
+
+-Evtl. (macht alles noch etwas komplizierter): Als Patient*in möchte ich die
+Möglichkeit haben, mit meinem Arzt Kontakt aufzunehmen, damit ich mögliche
+Probleme bei der Behandlung des Diabetes bzw. der App mit ihm besprechen kann
+
+-Als Ärzt*in möchte ich unmittelbar nach dem Login sehen, welche PatientInnen ich
+mit der App betreue, damit ich direkt die betreffende Patient*in auswählen
+kann und möglichst schnell und sicher zum Ziel komme
+ODER:
+-Als Ärzt*in möchte ich unmittelbar nach dem Login sehen, bei welchen
+Patient*innen neue Angaben erforderlich sind, damit ich zunächst diese
+wichtigen offenen Punkte abarbeiten kann
+
+-Als Ärzt*in möchte ich die Möglichkeit haben, sämtliche dokumentierte
+Blutzuckerwerte meiner PatientInnen einzusehen, damit ich den Verlauf der
+Erkrankung besser beurteilen kann und ich ggf. die Therapie anpassen kann
+
+-Als Ärzt*in aber auch als Patient*in möchte ich die Möglichkeit haben, im
+Blutzuckertagebuch sowohl die gemessenen Blutzuckerwerte als auch die
+verabreichten Insulindosen in einem Diagramm zu betrachten, damit ich
+langfristig erkennen kann, ob die Insulindosen den Blutzuckerspiegel
+senken, oder ob eine Neuanpassung erforderlich ist
+
+
