@@ -9,6 +9,9 @@ If you want to know more about the product, feel free to read [inception results
 
 The diagrams were created using https://excalidraw.com.
 
+## Useful links
+[links](usefulLinks.md)
+
 ## Open questions
 * data privacy/security, GDPR?
 * How to login in app?
